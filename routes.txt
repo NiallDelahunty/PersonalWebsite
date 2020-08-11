@@ -1,0 +1,117 @@
+1	Santry (Shanard Rd.) Towards Sandymount (St. John's Church)
+4	From Harristown Towards Monkstown Avenue
+7	From Mountjoy Sq. Towards Brides Glen Luas Stop
+7a	From Mountjoy Sq. Towards Loughlinstown
+7b	From Mountjoy Sq. Towards Shankill
+7d	From Mountjoy Sq. Towards Dalkey
+7n	From D'Olier St. Towards Shankill
+9	From Charlestown Towards Limekiln Ave.
+11	From Wadelai Park To Sandyford Business District
+13	From Harristown Towards Grange Castle
+14	From Beaumont (Ardlea Rd.) To Dundrum Luas Station
+15	From Clongriffin Towards Ballycullen Rd.
+15a	From Ringsend Road (Barrow Street) To Limekiln Ave.
+15b	From Ringsend Road (Barrow Street) To Stocking Ave.
+15d	From Ringsend Road (Barrow Street) Towards Whitechurch
+16	From Dublin Airport Towards Ballinteer (Kingston)
+25	From Merrion Sq. Towards Lucan (Dodsboro)
+25a	From Merrion Sq. Towards Lucan (Esker Church)
+25b	From Merrion Sq. Towards Adamstown Rail Station
+25d	From Merrion Sq. Towards Adamstown Rail Station
+25n	From Westmoreland St. Towards Adamstown
+25x	From UCD Belfield To Lucan
+26	From Merrion Sq. Towards Liffey Valley
+27	From Clare Hall To Jobstown
+27a	From Eden Quay To Blunden Drive
+27b	Eden Quay To Harristown
+27x	From UCD Belfield Towards Clare Hall
+29a	From Lwr. Abbey St. To Baldoyle (Coast Rd.)
+29n	From D'Olier St. Towards Baldoyle Road
+31/a	From Talbot St. To Howth Summit
+31b	From Talbot St. To Howth Summit
+31d	From DCU Towards Baldoyle
+31n	D'Olier St. to Howth
+32	From Talbot St. To Malahide
+32x	From Malahide Towards UCD Belfield
+33	From Lower Abbey St. Towards Balbriggan
+33d	From Custom House Quay / St. Stephen's Green Towards Portrane
+33n	Westmoreland St. towards Balbriggan
+33x	From Custom House Quay / St. Stephen's Green Towards Skerries
+37	From Baggot St. / Wilton Terrace Towards Blanchardstown Centre
+38	From Burlington Rd. Towards Damastown
+38a	From Burlington Rd. Towards Damastown
+38b	From Burlington Rd. To Damastown
+39	From Burlington Rd. Towards Ongar
+39a	From UCD Belfield Towards Ongar
+39x	From Burlington Road Towards Ongar
+39n	From Westmoreland St. Towards Tyrrelstown
+40	From Charlestown Shopping Centre To Liffey Valley Shopping Centre
+40b	From Parnell St. Towards Toberburr
+40d	From Parnell St. To Tyrrelstown
+40e	From Broombridge Luas To Tyrrelstown
+41	From Lower Abbey St. Towards Swords Manor
+41b	From Lwr Abbey St. Towards Rolestown
+41c	Lower Abbey St. Towards Swords Manor
+41x	From UCD Belfield Towards Knocksedan
+42	From Talbot St. Towards Sand's Hotel (Portmarnock)
+42d	DCU Towards Portmarnock
+42n	From D'Olier St. Towards Portmarnock
+43	From Talbot St. To Swords Business Park
+44	From DCU Towards Enniskerry
+44b	Dundrum Luas Station To Glencullen
+46a	Phoenix Park Towards Dún Laoghaire
+46e	From Blackrock Station Towards Mountjoy Sq.
+46n	From D'Olier St. Towards Dundrum
+47	From Poolbeg St. To Belarmine
+49	From Pearse Street Towards Tallaght (The Square)
+49n	From D'Olier Street. To Tallaght (Kilnamanagh)
+51d	From Aston Quay Towards Clondalkin
+51x	From Dunawley To UCD Belfield
+53	From Talbot St. To Dublin Ferryport
+53a	From Talbot St. To Sheriff Street Upper
+54a	From Pearse St.To Ellensborough / Kiltipper Way
+56a	From Ringsend Rd. Towards Tallaght (The Square)
+61	From Eden Quay To Whitechurch
+65	From Poolbeg St. Towards Blessington / Ballymore
+65b	From Poolbeg Street Towards Citywest
+66	From Merrion Sq. To Maynooth
+66a	From Merrion Sq. Towards Leixlip (Captain's Hill)
+66b	From Merrion Sq. Towards Leixlip (Castletown)
+66e	From Merrion Sq. Towards Maynooth
+66n	From Westmoreland St. Towards Leixlip (Louisa Bridge) via Glen Easton
+66x	From UCD Belfield Towards Maynooth
+67	From Merrion Sq. Towards Maynooth
+67n	From Westmoreland St. Towards Celbridge / Maynooth
+67x	From UCD Belfield Towards Celbridge (Salesian College)
+68/a	From Hawkins St. Towards Newcastle / Greenogue Business Park
+68x	From Newcastle / Greenogue Business Park to Hawkins Street
+69	From Hawkins St. To Rathcoole
+69n	From Aston Quay Towards Saggart
+69x	From Hawkins St. To Rathcoole
+70	From Burlington Rd. Towards Dunboyne
+70d	DCU Towards Dunboyne
+70n	Westmoreland St. Towards Dunboyne
+77a	From Ringsend Rd. Towards Citywest
+77n	From D'Olier St. Towards Tallaght (Westbrook Estate)
+77x	From Citywest To UCD Belfield
+79/a	Aston Quay Towards Spiddal Park / Park West (79a)
+83	From Harristown Towards Kimmage
+84/a	From Blackrock Towards Newcastle
+84n	D'Olier St. Towards Greystones
+84x	From Hawkins Street Towards Newcastle / Kilcoole
+88n	Westmoreland St. Towards Ashbourne
+90	From Heuston Station To International Financial Services Centre
+116	From Parnell Sq. to Whitechurch
+118	From Kilternan Towards Eden Quay
+120	From Parnell St. Towards Ashtown Rail Station
+122	From Ashington Towards Drimnagh Rd.
+123	From Walkinstown (Kilnamanagh Rd.) Towards Marino
+130	From Lwr. Abbey St. Towards Castle Ave.
+140	From Palmerston Park Towards Ballymun (Ikea)
+142	From Portmarnock Towards UCD Belfield
+145	From Heuston Rail Station To Ballywaltrim
+150	From Hawkins St. Towards Rossmore
+151	From Docklands (East Rd.) To Foxborough (Balgaddy Rd.)
+155	Ikea Towards Bray Rail Station
+747	From Heuston Rail Station Towards Dublin Airport
+757	From Camden Street Towards Dublin Airport
